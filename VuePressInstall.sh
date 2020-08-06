@@ -14,7 +14,7 @@ echo '{
   "author": "",
   "license": "ISC"
 }' > package.json
-
+mkdir docs
 echo '---
 home: true
 heroImage: https://pic.rmb.bdstatic.com/bjh/d85984d541928b368b936a9d74818d4d.png
